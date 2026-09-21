@@ -1,38 +1,39 @@
 {
     "schema":  1,
     "channel":  "dev",
-    "generatedAt":  "2026-09-21T05:54:15.2844083Z",
+    "generatedAt":  "2026-09-21T06:20:19.8996923Z",
     "source":  {
                    "repository":  "XproTN-dev/CheryX",
-                   "commit":  "a86e2e81fb10a17c5098958f4e5884bd0947381a",
-                   "runId":  "35566113535"
+                   "commit":  "4511c175191e3c966bb09197667985d2cce8d8db",
+                   "runId":  "35567767768"
                },
     "release":  {
                     "repository":  "XproTN-dev/CheryX-Releases",
-                    "tag":  "dev-owner-1.7.0-mobile-0.9.0-alpha-a86e2e81",
-                    "pageUrl":  "https://github.com/XproTN-dev/CheryX-Releases/releases/tag/dev-owner-1.7.0-mobile-0.9.0-alpha-a86e2e81"
+                    "tag":  "dev-owner-1.7.1-mobile-0.9.1-alpha-4511c175",
+                    "pageUrl":  "https://github.com/XproTN-dev/CheryX-Releases/releases/tag/dev-owner-1.7.1-mobile-0.9.1-alpha-4511c175"
                 },
     "owner":  {
                   "package":  "com.cheryx.owner",
-                  "versionCode":  12,
-                  "versionName":  "1.7.0",
+                  "versionCode":  13,
+                  "versionName":  "1.7.1",
                   "minSdk":  27,
                   "targetSdk":  28,
-                  "fileName":  "cheryx-owner-1.7.0.apk",
-                  "bytes":  103739,
-                  "sha256":  "f5ac609edb688d453f35eceb4b76b28ff3da5bb3a97c1b15f0b9ddf7ace53f82",
+                  "fileName":  "cheryx-owner-1.7.1.apk",
+                  "bytes":  111931,
+                  "sha256":  "aea94525ee88dea00027f3a10954c09cf22a91f2dc4de7f88191a3a9388f7f5b",
                   "signerSha256":  "8ec125791a8a8a088d4f1a8e9417b8c103728f1898427e1426bc5ba832c8dc56",
-                  "url":  "https://github.com/XproTN-dev/CheryX-Releases/releases/download/dev-owner-1.7.0-mobile-0.9.0-alpha-a86e2e81/cheryx-owner-1.7.0.apk"
+                  "url":  "https://github.com/XproTN-dev/CheryX-Releases/releases/download/dev-owner-1.7.1-mobile-0.9.1-alpha-4511c175/cheryx-owner-1.7.1.apk"
               },
     "mobile":  {
                    "package":  "com.cheryx.mobile",
-                   "versionCode":  12,
-                   "versionName":  "0.9.0-alpha",
+                   "versionCode":  13,
+                   "versionName":  "0.9.1-alpha",
                    "minSdk":  26,
                    "targetSdk":  35,
-                   "fileName":  "cheryx-mobile-0.9.0-alpha-debug.apk",
-                   "bytes":  15772179,
-                   "sha256":  "0cdd777c9061b6dfdae3aac965231cb4d39ae952a6e42ff889a11692fd8c330c",
-                   "url":  "https://github.com/XproTN-dev/CheryX-Releases/releases/download/dev-owner-1.7.0-mobile-0.9.0-alpha-a86e2e81/cheryx-mobile-0.9.0-alpha-debug.apk"
+                   "fileName":  "cheryx-mobile-0.9.1-alpha-debug.apk",
+                   "bytes":  15787478,
+                   "sha256":  "2a30340db447c9bbffbeeaf11cb20a78f094497cddd7d614a6f351999431190f",
+                   "signerSha256":  "8ec125791a8a8a088d4f1a8e9417b8c103728f1898427e1426bc5ba832c8dc56",
+                   "url":  "https://github.com/XproTN-dev/CheryX-Releases/releases/download/dev-owner-1.7.1-mobile-0.9.1-alpha-4511c175/cheryx-mobile-0.9.1-alpha-debug.apk"
                }
 }
